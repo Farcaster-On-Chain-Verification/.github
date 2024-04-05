@@ -1,6 +1,6 @@
 # Farcaster On-Chain Verification
 
-We've developed a system that ensures secure identity verification for **Farcaster** users participating in decentralized networks, enabling authentic identity to be recognized. Our goal is to help build a trusted, Sybil-resistant environment for the community.
+Within the [Decentralized Intelligence Season 2](https://learnweb3.io/hackathons/decentralized-intelligence-season-2/), I have developed a system that ensures secure identity verification for **Farcaster** users participating in decentralized networks, enabling authentic identity to be recognized. Our goal is to help build a trusted, Sybil-resistant environment for the community.
 
 ## Repositories
 - **attestation-frame-azle**: Facilitate **Farcaster** account attestation using **Frames** on **ICP** decentralized infraestructure.
