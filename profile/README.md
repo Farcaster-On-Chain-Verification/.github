@@ -2,6 +2,10 @@
 
 Within the [Decentralized Intelligence Season 2](https://learnweb3.io/hackathons/decentralized-intelligence-season-2/), I have developed a system that ensures secure identity verification for **Farcaster** users participating in decentralized networks, enabling authentic identity to be recognized. The goal is to help build a trusted, Sybil-resistant environment for the community.
 
+## How it works?
+
+![Farcaster On-Chain Verify](https://github.com/Farcaster-On-Chain-Verification/.github/assets/1372744/120ad552-e0ec-4829-8614-1db14e656fda)
+
 ## Repositories
 - **attestation-frame-azle**: Facilitate **Farcaster** account attestation using **Frames** on **ICP** decentralized infraestructure.
 - **attestation-server**: Attest Farcaster accounts using **Ethereum's Attestation Service** on **Arbitrum One**.
