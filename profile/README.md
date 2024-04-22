@@ -10,7 +10,7 @@ Within the [Decentralized Intelligence Season 2](https://learnweb3.io/hackathons
 
 ## What?
 
-- Farcaster Frame hosted on ICP that let Farcaster users easily use Ethereum Attestation Service on Arbitrum One to attest their accounts. 🎫
+- Farcaster Frame hosted on ICP that let Farcaster users easily use Ethereum Attestation Service on Arbitrum One to attest to their accounts. 🎫
 - Gitcoin Passport is the first use case using the attestation as a primitive for Sybil resistance. 🛡️
 
 ## How?
